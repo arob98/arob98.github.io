@@ -4,3 +4,4 @@
 - Developer icon by mynamepong from the Noun Project
 - Code icon by ahmad from the Noun Project
 - Hello icon by Sewon Park from the Noun Project
+- thumbs up icon by Arthur Shlain from the Noun Project
