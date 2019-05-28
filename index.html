@@ -1,0 +1,23 @@
+---
+layout: default
+title: Building skills and gaining perspectives.
+description: Angela Robertson's portfolio.
+featured_image: /images/IMG_2732.JPG
+---
+
+
+
+{% for page in site.pages %}
+{% if page.title == 'Portfolio'  %}
+<section class="intro">
+    <div class="wrap">
+        <h1>Welcome!</h1>
+    </div>
+</section>
+<section class="single">
+    <div class="wrap">
+        {{ page.content }}
+    </div>
+</section>
+{% endif %}
+{% endfor %}
