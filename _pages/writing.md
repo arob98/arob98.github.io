@@ -17,7 +17,7 @@ featured_image: /images/writing.svg
 I share a few of the recent books that I've read to highlight some great work that you might like too:
 
 * [*The Making of a Manager*](https://www.amazon.com/gp/product/0735219567/ref=as_li_tl?ie=UTF8&tag=arobertson0f-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0735219567&linkId=c567ae9ffaef642275bb50b30cdc3d5e) by Julie Zhuo
-* [*No Hard Feelings: The Secret Power of Embracing Emotions at Work*](https://www.amazon.com/gp/product/0525533834/ref=as_li_tl?ie=UTF8&tag=arobertson0f-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0525533834&linkId=1fadda51a07385f45dccbf8ed68659cf) by Lis Fosslien and Mollie West
+* [*No Hard Feelings: The Secret Power of Embracing Emotions at Work*](https://www.amazon.com/gp/product/0525533834/ref=as_li_tl?ie=UTF8&tag=arobertson0f-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0525533834&linkId=1fadda51a07385f45dccbf8ed68659cf) by Liz Fosslien and Mollie West
 * [*Better: A Surgeon's Notes of Performance*](https://www.amazon.com/gp/product/0312427654/ref=as_li_tl?ie=UTF8&tag=arobertson0f-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0312427654&linkId=f19fc436256e71deee0c644100ddda08) by Atul Gawande
 
 ## On writing
