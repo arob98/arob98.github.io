@@ -16,9 +16,9 @@ featured_image: /images/writing.svg
 
 I share a few of the recent books that I've read to highlight some great work that you might like too:
 
-* [*The Making of a Manager* by Julie Zhuo](https://www.amazon.com/gp/product/0735219567/ref=as_li_tl?ie=UTF8&tag=arobertson0f-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0735219567&linkId=c567ae9ffaef642275bb50b30cdc3d5e)
-* [*No Hard Feelings: The Secret Power of Embracing Emotions at Work* by Lis Fosslien and Mollie West](https://www.amazon.com/gp/product/0525533834/ref=as_li_tl?ie=UTF8&tag=arobertson0f-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0525533834&linkId=1fadda51a07385f45dccbf8ed68659cf)
-* [*Better: A Surgeon's Notes of Performance* by Atul Gawande](https://www.amazon.com/gp/product/0312427654/ref=as_li_tl?ie=UTF8&tag=arobertson0f-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0312427654&linkId=f19fc436256e71deee0c644100ddda08)
+* [*The Making of a Manager*](https://www.amazon.com/gp/product/0735219567/ref=as_li_tl?ie=UTF8&tag=arobertson0f-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0735219567&linkId=c567ae9ffaef642275bb50b30cdc3d5e) by Julie Zhuo
+* [*No Hard Feelings: The Secret Power of Embracing Emotions at Work*](https://www.amazon.com/gp/product/0525533834/ref=as_li_tl?ie=UTF8&tag=arobertson0f-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0525533834&linkId=1fadda51a07385f45dccbf8ed68659cf) by Lis Fosslien and Mollie West
+* [*Better: A Surgeon's Notes of Performance*](https://www.amazon.com/gp/product/0312427654/ref=as_li_tl?ie=UTF8&tag=arobertson0f-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0312427654&linkId=f19fc436256e71deee0c644100ddda08) by Atul Gawande
 
 ## On writing
 
@@ -30,4 +30,5 @@ Finished [*Barking to the Choir*](https://www.amazon.com/gp/product/1476726159/r
 
 23 May 2019
 
-I finished *Better* today. Glad I picked this book back up after I started and stopped reading it in January. At the end, he talks about writing and how we should all want to be better than mediocre really hit me. I know I reach burnout when I do not want to write. It's my desire to always be better than leads to burnout. Such a lovely, messy paradox. Perhaps Gawande will write about this topic in a future book.
+I finished [*Better*](https://www.amazon.com/gp/product/0312427654/ref=as_li_tl?ie=UTF8&tag=arobertson0f-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0312427654&linkId=f19fc436256e71deee0c644100ddda08)
+ today. Glad I picked this book back up after I started and stopped reading it in January. At the end, he talks about writing and how we should all want to be better than mediocre really hit me. I know I reach burnout when I do not want to write. It's my desire to always be better than leads to burnout. Such a lovely, messy paradox. Perhaps Gawande will write about this topic in a future book.
