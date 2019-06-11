@@ -3,9 +3,9 @@ title: About Me
 featured_image: /images/about.svg
 ---
 
-I'm a manager in the Seattle area. I build teams focused on customer success, grounded in great design,  documentation, and product truth. I work at Microsoft in the Cloud + AI group.
+I enjoy helping customers solve problems with technology. To multiply my impact, I build and lead teams focused on customer success, grounded in great technical content that provides clarity re: product truth. I work at Microsoft in the Cloud + AI group.
 
-On this site I focus on sharing work my teams have delivered. I also share some original blog-style writing.
+On this site I focus on sharing work my teams have delivered. 
 
 In all things, my goal is to simplify complexity.
 
