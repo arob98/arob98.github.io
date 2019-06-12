@@ -19,7 +19,7 @@ After starting my undergraduate education at the University of North Carolina at
 ### Do you have a personal life?
 Yes, I'm married and have two children. Because we like to eat, I make foods from around the world as a way to explore different cultures and practices.
 
-I am also an enthusiastic endurance runner and aspiring long-distance swimmer. 
+I am also an enthusiastic endurance runner, yogi, and aspiring long-distance swimmer. 
 
 ![](/images/me.jpg)
 

@@ -7,7 +7,7 @@ featured_image: /images/developer.svg
 ### How do you summarize your work?
 To multiply my impact, I build and lead teams focused on customer success, grounded in great technical content that provides clarity about product truth. 
 
-My teams have succeeded because of our focus on customers and our commitment to simplify. 
+My teams have succeeded because of our focus on customers and our commitment to simplify. I also love to use the tools and technologies. My language of choice is JavaScript. I also have experience with Java. 
 
 ### Samples
 * [Refactoring guidance to deliver customer success](https://docs.microsoft.com/intune/)
