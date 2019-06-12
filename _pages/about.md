@@ -1,12 +1,8 @@
 ---
 title: About Me  
+subtitle: On this site I focus on sharing work my teams have delivered. 
 featured_image: /images/about.svg
 ---
-
-I enjoy helping customers solve problems with technology. To multiply my impact, I build and lead teams focused on customer success, grounded in great technical content that provides clarity re: product truth. I work at Microsoft in the Cloud + AI group.
-
-On this site I focus on sharing work my teams have delivered. 
-
 In all things, my goal is to simplify complexity.
 
 ### Were you always a manager?
