@@ -1,9 +1,14 @@
 ---
 title: About Me  
-subtitle: On this site I focus on sharing work my teams have delivered. 
+subtitle: I enjoy helping customers solve problems with technology. 
 featured_image: /images/about.svg
 ---
+
+### What is your goal?
 In all things, my goal is to simplify complexity.
+
+### What is your current role?
+I am a senior leader who loves to work hard, have fun, and make history. Motivated by the opportunity to positively impact the customer experience, design, architecture, and implementation of cutting-edge technologies, I lead a team of 170+ people at Microsoft. 
 
 ### Were you always a manager?
 No. Before I was a manager, I was a lead and an individual contributor. I got into management after a series of bad managers and one good manager. That awesome manager inspired me to take the leap into becoming a multiplier.

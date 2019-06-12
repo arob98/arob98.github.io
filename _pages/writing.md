@@ -5,14 +5,14 @@ description: I am an avid reader and writer. Here are links to some articles tha
 featured_image: /images/writing.svg
 ---
 
-## Some of my published articles
+### Some of my published articles
 
 * [Building your team's culture of shared responsibility](https://opensource.com/open-organization/18/7/guide-to-delegation) (OpenSource.org)
 * [The secret to better one-on-one meetings](https://opensource.com/open-organization/18/5/open-one-on-one-meetings-guide) (OpenSource.org)
 * [Review of Four Books on Management - login required](https://www.stc.org/techcomm/2018/05/02/review-of-four-books-on-management/) (stc.org)
 * [Review of Four Books on User Experience and Interaction Design - login required](https://www.stc.org/techcomm/2016/05/11/review-of-four-books-on-user-experience-and-interaction-design/) (stc.org)
 
-## Recent reads
+### Recent reads
 
 I share a few of the recent books that I've read to highlight some great work that you might like too:
 
