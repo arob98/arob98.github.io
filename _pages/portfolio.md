@@ -4,7 +4,7 @@ subtitle: My teams have succeeded because of our focus on customers and our comm
 featured_image: /images/developer.svg
 ---
 
-## Samples
+### Samples
 * [Refactoring guidance to deliver customer success](https://docs.microsoft.com/intune/)
 * [Managing a portfolio of content](https://docs.microsoft.com/azure/)
 * [Improving access to information](https://docs.microsoft.com/azure/active-directory/)
