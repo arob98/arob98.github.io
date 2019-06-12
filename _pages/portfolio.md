@@ -1,10 +1,8 @@
 ---
 title: Portfolio
-subtitle: Samples  
+subtitle: My teams have succeeded because of our focus on customers and our commitment to simplify. I am a senior leader who loves to work hard, have fun, and make history. Motivated by the opportunity to positively impact the customer experience, design, architecture, and implementation of cutting-edge technologies.
 featured_image: /images/developer.svg
 ---
-
-My teams have succeeded because of our focus on customers and our commitment to simplify. I am a senior leader who loves to work hard, have fun, and make history. Motivated by the opportunity to positively impact the customer experience, design, architecture, and implementation of cutting-edge technologies.
 
 * [Refactoring guidance to deliver customer success](https://docs.microsoft.com/intune/)
 * [Managing a portfolio of content](https://docs.microsoft.com/azure/)
