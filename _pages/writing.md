@@ -10,12 +10,11 @@ featured_image: /images/writing.svg
 * [Building your team's culture of shared responsibility](https://opensource.com/open-organization/18/7/guide-to-delegation) (OpenSource.org)
 * [The secret to better one-on-one meetings](https://opensource.com/open-organization/18/5/open-one-on-one-meetings-guide) (OpenSource.org)
 * [Review of Four Books on Management - login required](https://www.stc.org/techcomm/2018/05/02/review-of-four-books-on-management/) (stc.org)
-* [Review of Four Books on User Experience and Interaction Design - login required](https://www.stc.org/techcomm/2016/05/11/review-of-four-books-on-user-experience-and-interaction-design/) (stc.org)
 
 ### Recent reads
 
-I share a few of the recent books that I've read to highlight some great work that you might like too:
+I share a few of the recent books that I've read to highlight some great work:
 
-* [*The Making of a Manager*](https://www.amazon.com/gp/product/0735219567/ref=as_li_tl?ie=UTF8&tag=arobertson0f-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0735219567&linkId=c567ae9ffaef642275bb50b30cdc3d5e) by Julie Zhuo
-* [*No Hard Feelings: The Secret Power of Embracing Emotions at Work*](https://www.amazon.com/gp/product/0525533834/ref=as_li_tl?ie=UTF8&tag=arobertson0f-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0525533834&linkId=1fadda51a07385f45dccbf8ed68659cf) by Liz Fosslien and Mollie West
-* [*Better: A Surgeon's Notes of Performance*](https://www.amazon.com/gp/product/0312427654/ref=as_li_tl?ie=UTF8&tag=arobertson0f-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0312427654&linkId=f19fc436256e71deee0c644100ddda08) by Atul Gawande
+* [*The Culture Code*](https://www.goodreads.com/book/show/33517721-the-culture-code) by Daniel Coyle
+* [*The Making of a Manager*](https://www.goodreads.com/book/show/38821039-the-making-of-a-manager) by Julie Zhuo
+* [*No Hard Feelings: The Secret Power of Embracing Emotions at Work*](https://www.goodreads.com/book/show/42734244-no-hard-feelings) by Liz Fosslien and Mollie West
