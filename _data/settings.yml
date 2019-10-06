@@ -11,7 +11,7 @@ menu_settings:
   menu_items:
     - title: 'About'
       url: '/about'    
-    - title: 'Portfolio'
+    - title: 'Accomplishments'
       url: '/portfolio'
     - title: 'Writing'
       url: '/writing'
