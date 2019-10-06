@@ -14,5 +14,5 @@ My teams have succeeded because of our commitment to simplify the user experienc
 * (Mid career) Selected by executive leadership to create global program management organization designed to baseline contributions and defects, and subsequently increase contributions and reduce defects. 
 * (Early career) Supervised 15-person team in support 23,000 unique customers. We moved from monthly updates to continuous deployments that demonstrated commitment to listening to customer feedback. Opened a customer feedback channel where we met a 3-day SLA for responding to issues. 
 
-[Resume](/images/ARobertson.pdf)\
+[Resume](/images/ARobertson.pdf)
 <a href="/images/ARobertson.pdf" download>Resume</a>
