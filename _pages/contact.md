@@ -1,6 +1,6 @@
 ---
 title: Contact
-subtitle: I am always interested in new opportunities.  Let's talk!
+subtitle: You're welcome to ping me about other opportunities. 
 featured_image: /images/contact.svg
 ---
 

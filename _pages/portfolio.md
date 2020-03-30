@@ -1,13 +1,13 @@
 ---
 title: Accomplishments
-subtitle: I want to share some of the work that my teams have delivered. 
+subtitle: Sample of the work that my teams have delivered. 
 featured_image: /images/developer.svg
 ---
 
 ### How do you summarize your work?
 To multiply my impact, I build and lead teams focused on customer success. 
 
-My teams have succeeded because of our commitment to simplify the user experience. I also love to use the tools and technologies. My language of choice is JavaScript. I also have experience with Java. 
+My teams have succeeded because of our commitment to simplify the user experience. I also love to use the tools and technologies. My language of choice is JavaScript. I also have experience with Java and Python. 
 
 ### Accomplishments
 * (Recent) Lead 200-person development team to adopt data-driven, performance-focused resourcing model. 
